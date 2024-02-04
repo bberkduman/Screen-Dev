@@ -9,6 +9,6 @@ Flutter SEM movie platform project.
 (https://github.com/keyvanarasteh/)
 
 
-![Screenshot_1](https://1drv.ms/i/s!AqENsi4YJNTY4FWHdhSc_OCtLand?e=M7xBHf)
-![Screenhot_2](https://1drv.ms/i/s!AqENsi4YJNTY4FaBbzzFSb8EEmxM?e=kZLfsz)
+![Screenshot_1](https://1drv.ms/i/s!AqENsi4YJNTY4FWHdhSc_OCtLand?e=x6zIj9)
+![Screenhot_2](https://1drv.ms/i/s!AqENsi4YJNTY4FaBbzzFSb8EEmxM?e=PfpF9C)
 
