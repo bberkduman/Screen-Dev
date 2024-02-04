@@ -2,7 +2,7 @@
 
 Flutter SEM movie platform project.
 
-## Berk Duman 221216039 [bberkduman](https://github.com/bberkduman)
+## Berk Duman [bberkduman](https://github.com/bberkduman)
 ## 221216039
 ## @keyvanarasteh
 
