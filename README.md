@@ -1,6 +1,6 @@
-# login_and_signup
+# SEM movie platform
 
-Flutter SEM movie platform project.
+Flutter movie platform project.
 
 ## Berk Duman [bberkduman](https://github.com/bberkduman)
 ## 221216039
